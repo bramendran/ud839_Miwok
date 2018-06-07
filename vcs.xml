@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/udacity/ud839_CustomAdapter_Example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Paytm-Payments/Paytm_Android_App_Kit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Bramendran Anbalagan\AndroidStudioProjects" />
